@@ -7,7 +7,7 @@
 - [Installation](#installation)
 - [A note about jQuery](#a-note-about-jQuery)
 - [Lesson Steps](#lesson-steps)
-    - [TODO 1: Learn how to move the box](#todo-1-learn-how-to-move-the-box)
+    - [TODO 1: Learn how to move the box](#todo-1-learngit pushgit push-how-to-move-the-box)
     - [TODO 2: Use Variables to remember where we've been](#todo-2-use-variables-to-remember-where-weve-been)
     - [TODO 3: Respond to Click Events](#todo-3-respond-to-click-events)
     - [TODO 4: Keeping Score](#todo-4-keeping-score)
