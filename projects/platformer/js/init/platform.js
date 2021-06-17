@@ -40,12 +40,13 @@
         //To the left means the smaller the number is on the x-axis. 
         createPlatform(170, 520, 2, 0.3 ) //long, thin platform 
         
-        createPlatform(150, 377, 0.05, 5) // the parkour part of the game
+        createPlatform(150, 450, 0.05, 5) // the parkour part of the game
         createPlatform (0, 595, 0.1, 0.3 ) 
-        createPlatform (110, 495, 0.1, 0.3 )
-        createPlatform (0, 425, 0.1, 0.3 ) 
-        createPlatform (110, 377, 0.1, 0.3 )
+        createPlatform (110, 575, 0.1, 0.3 )
+        createPlatform (0, 534, 0.1, 0.3 ) 
+        createPlatform (110, 475, 0.1, 0.3 )
         createPlatform (600, 400, 0.5, 0.3)
+        createPlatform(0, 500, 0.1, 0.3 ) 
         // ALL YOUR CODE GOE ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     }
